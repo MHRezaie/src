@@ -3,7 +3,7 @@ class mycalss {
       this.name = name;
     }
     greet() {
-      //console.log(`Hello, ${this.name}!`);
+      console.log(`Hello, ${this.name}!`);
       alert(origin);
     }
   }
